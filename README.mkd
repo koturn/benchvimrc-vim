@@ -17,6 +17,7 @@ Usage
 -----
 
     :BenchVimrc
+    :BenchVimrc [target-file]
 
 Author
 ------
